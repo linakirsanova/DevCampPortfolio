@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/linakirsanova/angelina_view_tool
+  revision: e78cbcd922f1881d66d520fd00a1c8647f6fffe5
+  specs:
+    angelina_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +191,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  angelina_view_tool!
   bootstrap (~> 4.1.0)
   byebug
   coffee-rails (~> 4.2)
