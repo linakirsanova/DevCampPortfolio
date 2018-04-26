@@ -59,3 +59,5 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'bootstrap', '~> 4.1.0'
 
 gem 'angelina_view_tool', git: 'https://github.com/linakirsanova/angelina_view_tool'
+
+gem 'petergate', '~> 1.6', '>= 1.6.3'
