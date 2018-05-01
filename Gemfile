@@ -61,3 +61,7 @@ gem 'bootstrap', '~> 4.1.0'
 gem 'angelina_view_tool', git: 'https://github.com/linakirsanova/angelina_view_tool'
 
 gem 'petergate', '~> 1.6', '>= 1.6.3'
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
+
+gem 'kaminari', '~> 1.1', '>= 1.1.1'
